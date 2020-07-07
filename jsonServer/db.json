@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "title": "Ridwan's Blog",
+      "content": "Did you like me? Yea I do",
+      "id": 4
+    },
+    {
+      "title": "Haleemah's Blog",
+      "content": "I love Olaniyi",
+      "id": 7
+    },
+    {
+      "title": "Olaniyi's Blog",
+      "content": "I am olaniyi ",
+      "id": 8
+    }
+  ]
+}
